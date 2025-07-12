@@ -28,7 +28,7 @@ public class OverLoadingLesson{
         oll.fly(s);
         System.out.println(oll.fly());
         oll.fly(1,(byte)1);
-        oll.fly(new AccessMod());
+        // oll.fly(new AccessMod());
         
     }
 }
